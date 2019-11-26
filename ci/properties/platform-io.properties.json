@@ -1,6 +1,6 @@
 {
     "name": "PlatformIO",
     "description": "Build a PlatformIO project.",
-    "iconName": "pio",
+    "iconName": "platform-io",
     "categories": ["C", "C++", "Arduino"]
 }
